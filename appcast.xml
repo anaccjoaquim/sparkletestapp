@@ -3,12 +3,12 @@
     <channel>
         <title>SparkleTest</title>
         <item>
-            <title>1.2</title>
-            <pubDate>Wed, 12 Mar 2025 14:42:08 +0400</pubDate>
-            <sparkle:version>1.2</sparkle:version>
-            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <title>1.3</title>
+            <pubDate>Wed, 12 Mar 2025 15:37:56 +0400</pubDate>
+            <sparkle:version>1.3</sparkle:version>
+            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/anaccjoaquim/sparkletestapp/releases/tag/Prod#:~:text=3-,SparkleTest.dmg,-1.04%20MB" length="1086341" type="application/octet-stream"/>
+            <enclosure url="https://github.com/anaccjoaquim/sparkletestapp/releases/download/Prod/SparkleTest.dmg" length="1086138" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
