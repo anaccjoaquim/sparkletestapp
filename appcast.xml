@@ -10,5 +10,13 @@
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/anaccjoaquim/sparkletestapp/releases/download/Prod/SparkleTest.dmg" length="1235114" type="application/octet-stream"/>
         </item>
+        <item>
+            <title>1.0</title>
+            <pubDate>Thu, 13 Mar 2025 23:39:15 +0400</pubDate>
+            <sparkle:version>1.0</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://anaccjoaquim.github.io/sparkletestapp/SparkleTest.dmg" length="1237113" type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
