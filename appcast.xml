@@ -4,11 +4,11 @@
         <title>SparkleTest</title>
         <item>
             <title>2.0</title>
-            <pubDate>Thu, 13 Mar 2025 23:45:30 +0400</pubDate>
+            <pubDate>Thu, 13 Mar 2025 23:54:12 +0400</pubDate>
             <sparkle:version>2.0</sparkle:version>
             <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/anaccjoaquim/sparkletestapp/releases/download/Prod/SparkleTest.dmg" length="1234622" type="application/octet-stream"/>
+            <enclosure url="https://github.com/anaccjoaquim/sparkletestapp/releases/download/Prod/SparkleTest.dmg" length="1235090" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
