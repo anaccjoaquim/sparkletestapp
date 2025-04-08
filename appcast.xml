@@ -1,16 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Evope Collector</title>
+        <title>EvopeCollector</title>
         <item>
             <title>1.2.7</title>
-            <pubDate>Tue, 08 Apr 2025 19:52:28 +0400</pubDate>
-            <enclosure
-            sparkle:version="1"
-            sparkle:shortVersionString="1.2.7"
-            sparkle:minimumSystemVersion="14.6"
-            url="https://github.com/anaccjoaquim/sparkletestapp/releases/download/Prod/Evope.Collector.dmg" length="1946314" type="application/octet-stream"
-            sparkle:edSignature="jb86bwJQhGbPkcGKmPYzmtvRT0blEJks3BwVaw0g00K8u1bilu7z1x9R/4nrljlyr3nPfqx8JeGQ5MTdKYhhBw=="/>
+            <pubDate>Tue, 08 Apr 2025 22:47:14 +0400</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.2.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/anaccjoaquim/sparkletestapp/releases/download/Prod/Evope.Collector.dmg" length="1949839" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
