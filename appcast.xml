@@ -3,12 +3,19 @@
     <channel>
         <title>Evope Collector</title>
         <item>
-            <title>1.2.7</title>
-            <pubDate>Tue, 08 Apr 2025 13:47:17 +0400</pubDate>
+            <title>1.2.8</title>
+            <pubDate>Tue, 08 Apr 2025 14:32:54 +0400</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.2.7</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.2.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://anaccjoaquim.github.io/sparkletestapp/Evope%20Collector.dmg" length="1946365" type="application/octet-stream" sparkle:edSignature="Fd/xakJb1qo22cIBOh2Mg1fEhMx5CiolfWZKwGzf4F5OoxIvfvg6Rvldm6yxuTcOIzibSev7YDjLD33vJX1oCw=="/>
+            <enclosure
+              url="https://github.com/anajoaquim/sparkletestapp/releases/download/Prod/Evope.Collector.dmg"
+              sparkle:version="1.2.8"
+              sparkle:shortVersionString="1.2.8"
+              sparkle:minimumSystemVersion="14.6"
+              length="1946365"
+              type="application/octet-stream"
+              sparkle:edSignature="Fd/xakJb1qo22cIBOh2Mg1fEhMx5CiolfWZKwGzf4F5OoxIvfvg6Rvldm6yxuTcOIzibSev7YDjLD33vJX1oCw=="
         </item>
     </channel>
 </rss>
