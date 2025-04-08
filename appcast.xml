@@ -9,7 +9,7 @@
                 sparkle:version="1"
                 sparkle:shortVersionString="1.2.8"
                 <sparkle:minimumSystemVersion="14.6"
-          url="https://github.com/anaccjoaquim/sparkletestapp/releases/download/Prod/Evope.Collector.dmg" length="1864467" type="application/octet-stream" sparkle:edSignature="nJxcz/isWoFGjex1kaBc9JCOqtEyK/VSXRAykS4d5PWQiqintnWq1CzPTRJ3G7/UipDMzX9lByVwZEzHi1uPAg=="/>
+          url="https://github.com/anaccjoaquim/sparkletestapp/releases/download/Prod/Evope.Collector.dmg" length="1864467" type="application/octet-stream" sparkle:edSignature="mt2yhKvwfXIDYzUSZonOtpHs+/u4TJ6/Hmh2lRiD9H8="/>
         </item>
     </channel>
 </rss>
