@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.2.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://anaccjoaquim.github.io/sparkletestapp/Evope%20Collector.dmg" length="1946248" type="application/octet-stream" sparkle:edSignature="kb++rAiPQeSl8rokhZptB0QsaiupNu78MRBe7BuC+0FpE3ShTlYyyLbX9XgCH6jHuvOji2Z7g+uu4QBy+qGZCQ=="/>
+            <enclosure url="https://anaccjoaquim.github.io/sparkletestapp/EvopeCollector.dmg" length="1946248" type="application/octet-stream" sparkle:edSignature="kb++rAiPQeSl8rokhZptB0QsaiupNu78MRBe7BuC+0FpE3ShTlYyyLbX9XgCH6jHuvOji2Z7g+uu4QBy+qGZCQ=="/>
         </item>
     </channel>
 </rss>
