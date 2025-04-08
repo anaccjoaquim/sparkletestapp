@@ -5,10 +5,11 @@
         <item>
             <title>1.2.8</title>
             <pubDate>Tue, 08 Apr 2025 14:32:54 +0400</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.2.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/anaccjoaquim/sparkletestapp/releases/download/Prod/Evope.Collector.dmg" length="1864467" type="application/octet-stream" sparkle:edSignature="nJxcz/isWoFGjex1kaBc9JCOqtEyK/VSXRAykS4d5PWQiqintnWq1CzPTRJ3G7/UipDMzX9lByVwZEzHi1uPAg=="/>
+            <enclosure
+                sparkle:version="1"
+                sparkle:shortVersionString="1.2.8"
+                <sparkle:minimumSystemVersion="14.6"
+          url="https://github.com/anaccjoaquim/sparkletestapp/releases/download/Prod/Evope.Collector.dmg" length="1864467" type="application/octet-stream" sparkle:edSignature="nJxcz/isWoFGjex1kaBc9JCOqtEyK/VSXRAykS4d5PWQiqintnWq1CzPTRJ3G7/UipDMzX9lByVwZEzHi1uPAg=="/>
         </item>
     </channel>
 </rss>
